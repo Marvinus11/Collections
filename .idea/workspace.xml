@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b3693834-0921-4cce-b97e-420e6dc11fdd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/c.list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/v.list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/writerside.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/CarrinhoDeCompras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/CatalogoLivros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/ListaDeTarefas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/OrdenacaoNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/OrdenacaoPessoas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/SomaNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/Tarefa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/AgendaContatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/ConjuntoConvidados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/ConjuntoPalavrasUnicas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/Contato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/Convidado.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2i6rMeUlau8hS1JVW1UBql0lQG7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.CarrinhoDeCompras.executor": "Run",
+    "Application.CatalogoLivros.executor": "Run",
+    "Application.ConjuntoConvidados.executor": "Run",
+    "Application.ConjuntoPalavrasUnicas.executor": "Run",
+    "Application.ListaDeTarefas.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.OrdenacaoNumeros.executor": "Run",
+    "Application.SomaNumeros.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/vinic/Dev/Collections",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/vinic/Dev/Collections/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": []
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="list" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ConjuntoPalavrasUnicas">
+    <configuration name="CatalogoLivros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.CatalogoLivros" />
+      <module name="Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConjuntoConvidados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="set.ConjuntoConvidados" />
+      <module name="Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConjuntoPalavrasUnicas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="set.ConjuntoPalavrasUnicas" />
+      <module name="Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrdenacaoNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.OrdenacaoNumeros" />
+      <module name="Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SomaNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.SomaNumeros" />
+      <module name="Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConjuntoPalavrasUnicas" />
+        <item itemvalue="Application.ConjuntoConvidados" />
+        <item itemvalue="Application.OrdenacaoNumeros" />
+        <item itemvalue="Application.SomaNumeros" />
+        <item itemvalue="Application.CatalogoLivros" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3693834-0921-4cce-b97e-420e6dc11fdd" name="Changes" comment="" />
+      <created>1718821823803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718821823803</updated>
+      <workItem from="1718821824903" duration="2876000" />
+      <workItem from="1718861001293" duration="878000" />
+      <workItem from="1718900331499" duration="1962000" />
+      <workItem from="1718903395186" duration="31000" />
+      <workItem from="1718903581422" duration="3495000" />
+      <workItem from="1718951437178" duration="2234000" />
+      <workItem from="1718990732839" duration="3071000" />
+      <workItem from="1719035215407" duration="705000" />
+      <workItem from="1719091990284" duration="2187000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
